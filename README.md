@@ -8,6 +8,7 @@
 - Any technical issues, ideas, bugs in course materials, contribution ideas - add an issue
 
 # Syllabus
+- [__week00__](./week00) Cheatsheets
 - [__week01__](./week01) Introduction to Course
     - Lecture: Introduction to Course
     - Seminar: Intro in `pytorch`
