@@ -13,7 +13,7 @@ This zero-week material aims at summing up in the same place all the important n
 |Supervised Learning|Unsupervised Learning|Deep Learning|Tips and tricks|
 
 #### VIP Refreshers
-|<a href="https://github.com/MrDredD/DL-bioinform/blob/master/week00/refresher-probabilities-statistics.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/en-005.png" alt="Illustration" width="220px"/></a>|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-algebra-calculus.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/en-006.png#1" alt="Illustration" width="220px"/></a>|
+|<a href="https://github.com/MrDredD/DL-bioinform/blob/master/week00/refresher-probabilities-statistics.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/en-005.png" alt="Illustration" width="220px"/></a>|<a href="https://github.com/MrDredD/DL-bioinform/blob/master/week00/refresher-algebra-calculus.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/en-006.png#1" alt="Illustration" width="220px"/></a>|
 |:--:|:--:|
 |Probabilities and Statistics|Algebra and Calculus|
 
