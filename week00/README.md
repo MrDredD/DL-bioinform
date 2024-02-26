@@ -1,8 +1,7 @@
-# Machine Learning cheatsheets for Stanford's CS 229
-Available in [العربية](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/ar) -  **English** -  [Español](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/es) -  [فارسی](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fa) -  [Français](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fr) -  [한국어](https://stanford.edu/~shervine/l/ko/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks) -  [Português](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/pt) -  [Türkçe](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/tr) - [Tiếng Việt](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/vi) -  [简中](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh) -  [繁中](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh-tw)
+# Prereq cheatsheets for Machine Learning and math from [Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning) 
 
 ## Goal
-This repository aims at summing up in the same place all the important notions that are covered in Stanford's CS 229 Machine Learning course, and include:
+This zero-week material aims at summing up in the same place all the important notions that are covered in Stanford's CS 229 Machine Learning course, and include:
 - **Refreshers** in related topics that highlight the key points of the **prerequisites of the course**.
 - **Cheatsheets for each machine learning field**, as well as another dedicated to tips and tricks to have in mind when training a model.
 - All elements of the above combined in an **ultimate compilation of concepts**, to have with you at all times!
@@ -28,7 +27,7 @@ This repository aims at summing up in the same place all the important notions t
 This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cs-229), so that you can enjoy reading it from any device.
 
 ## Translation
-Would you like to see these cheatsheets in your native language? You can help us translating them on [this dedicated repo](https://github.com/shervinea/cheatsheet-translation)!
+Would you like to see these cheatsheets in your native language? You can help us translate them on [this dedicated repo](https://github.com/shervinea/cheatsheet-translation)!
 
 ## Authors
 [Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) and [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)
