@@ -12,7 +12,9 @@
 - [__week01__](./week01) Introduction to Course
     - Lecture: Introduction to Course
     - Seminar: Intro in `pytorch`
- 
+- [__week02__](./week02) Classification
+    - Lecture: Neural networks definition, activation functions and classification with cross-entropy
+    - Seminar: Fully-Connected NN for binary classification 
 # Homeworks
  TBA
 
