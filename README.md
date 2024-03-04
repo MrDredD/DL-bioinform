@@ -25,6 +25,9 @@ Rules:
 - Late days can be used to prolong either soft or hard deadline
 - State within the assignment that you are using late day. It must be clear to the person evaluating it.
 
+### HW's list:
+#### Practical:
+
 - [__HW1__](./homeworks/practical/hw1)
     - Soft deadline: 18.03.24, 15.00
     - Hard deadline: 25.03.24, 15.00
