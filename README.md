@@ -14,7 +14,13 @@
     - Seminar: Intro in `pytorch`
 - [__week02__](./week02) Classification
     - Lecture: Neural networks definition, activation functions, and classification with cross-entropy
-    - Seminar: Fully-Connected NN for binary classification 
+    - Seminar: Fully-Connected NN for binary classification
+- [__week03__](./week03) Regularization and Optimization
+    - Lecture: Overfitting, Dropout, BatchNorm, Optimization:
+        - SGD, Adam, AdamW
+        - LR Schedulers
+    - Seminar:
+
 # Homeworks
 Rules:
 - Soft and Hard deadlines
