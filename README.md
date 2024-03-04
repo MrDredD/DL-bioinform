@@ -16,6 +16,15 @@
     - Lecture: Neural networks definition, activation functions, and classification with cross-entropy
     - Seminar: Fully-Connected NN for binary classification 
 # Homeworks
+Rules:
+- Soft and Hard deadlines
+- 2 weeks from the start before the soft deadline
+- 1 additional week after the soft deadline before the hard deadline
+- Penalty 10% to the grade for each day after soft deadline
+- 4 late days in total. You can use up to all 4 in a single assignment
+- Late days can be used to prolong either soft or hard deadline
+- State within the assignment that you are using late day. It must be clear to the person evaluating it.
+
 - [__HW1__](./homeworks/practical/hw1)
     - Soft deadline: 18.03.24, 15.00
     - Hard deadline: 25.03.24, 15.00
