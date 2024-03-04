@@ -13,10 +13,15 @@
     - Lecture: Introduction to Course
     - Seminar: Intro in `pytorch`
 - [__week02__](./week02) Classification
-    - Lecture: Neural networks definition, activation functions and classification with cross-entropy
+    - Lecture: Neural networks definition, activation functions, and classification with cross-entropy
     - Seminar: Fully-Connected NN for binary classification 
 # Homeworks
- TBA
+- [__HW1__](./homeworks/practical/hw1)
+    - Soft deadline: 18.03.24, 15.00
+    - Hard deadline: 25.03.24, 15.00
+    - You lose 10% off of your grade for every day after the soft deadline.
+    - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.
+    
 
 # Textbooks
 
