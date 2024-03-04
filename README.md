@@ -19,7 +19,8 @@
     - Lecture: Overfitting, Dropout, BatchNorm, Optimization:
         - SGD, Adam, AdamW
         - LR Schedulers
-    - Seminar:
+    - Seminar: Gradient descent and its variations. SGD. Adam. BatchNorm, Dropout, ElasticNet
+    
 
 # Homeworks
 Rules:
