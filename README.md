@@ -43,7 +43,12 @@ Rules:
     
 
 # Textbooks
-
+## Main:
 1. Deep Learning (Ian J. Goodfellow, Yoshua Bengio, and Aaron Courville), MIT Press, 2016.
 2. Bishop, Christopher M. Pattern Recognition and Machine Learning. New York: Springer, 2006.
-3. Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for Machine Learning. Cambridge: Cambridge University Press, 2020. Print. 
+
+## Additional
+1.  Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for Machine Learning. Cambridge: Cambridge University Press, 2020. Print.
+2.  Murphy, Kevin P.. (2022). Probabilistic machine learning: an introduction. Massachusetts: MIT Press.
+3.  Richard Szeliski. 2010. Computer Vision: Algorithms and Applications (1st. ed.). Springer-Verlag, Berlin, Heidelberg.
+
