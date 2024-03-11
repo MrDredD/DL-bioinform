@@ -50,5 +50,5 @@ Rules:
 ## Additional
 1.  Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for Machine Learning. Cambridge: Cambridge University Press, 2020. Print.
 2.  Murphy, Kevin P.. (2022). Probabilistic machine learning: an introduction. Massachusetts: MIT Press.
-3.  Richard Szeliski. 2010. Computer Vision: Algorithms and Applications (1st. ed.). Springer-Verlag, Berlin, Heidelberg.
+3.  Richard Szeliski. 2021. Computer Vision: Algorithms and Applications (2st. ed.). Springer-Verlag, Berlin, Heidelberg.
 
