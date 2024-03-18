@@ -20,7 +20,12 @@
         - SGD, Adam, AdamW
         - LR Schedulers
     - Seminar: Gradient descent and its variations. SGD. Adam. BatchNorm, Dropout, ElasticNet
-    
+- [__week04__](./week04) Computer Vision intro
+    - Lecture: Image Processing, Convolution layer, Pooling layer
+    - Seminar: CNN for MNIST and Cifar
+- [__week05__](./week05) CNN Architectures
+    - Lecture: CNN evolution
+    - Seminar:     
 
 # Homeworks
 Rules:
