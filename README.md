@@ -25,7 +25,7 @@
     - Seminar: CNN for MNIST and Cifar
 - [__week05__](./week05) CNN Architectures
     - Lecture: CNN evolution
-    - Seminar:     
+    - Seminar: Dataset class, image augmentation
 
 # Homeworks
 Rules:
