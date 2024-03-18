@@ -45,6 +45,8 @@ Rules:
     - Hard deadline: 25.03.24, 15.00
     - You lose 10% off of your grade for every day after the soft deadline.
     - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.
+- [__HW@__](./homeworks/practical/hw2)
+  
     
 
 # Textbooks
