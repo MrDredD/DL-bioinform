@@ -47,8 +47,8 @@ Rules:
     - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.
 - [__HW2__](./homeworks/practical/hw2)
     - Theoretical and practical parts!
-    - Soft deadline: 01.04.24, 15.00
-    - Hard deadline: 09.04.24, 15.00
+    - Soft deadline: 08.04.24, 15.00
+    - Hard deadline: 16.04.24, 15.00
     - You lose 10% off of your grade for every day after the soft deadline.
     - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.  
     
