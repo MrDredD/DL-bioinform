@@ -26,6 +26,30 @@
 - [__week05__](./week05) CNN Architectures
     - Lecture: CNN evolution
     - Seminar: Dataset class, image augmentation
+- [__week06__](./week06) Object Detection
+    - Lecture: Metrics, approaches and models
+    - Seminar: Object detection tutorial
+- [__week07__](./week07) Segmentation
+    - Lecture: Instance and Semantic Segmentation
+    - Seminar: Semantic segmentation tutorial
+- [__week08__](./week08) Text Embeddings
+    - Lecture: Word representation, different text models
+    - Seminar: Word2Vec and Embeddings representation analysis 
+- [__week09__](./week09) Sequence Handling
+    - Lecture: Challenges with sequence handling, RNNs and how to train them, pros and cons
+    - Seminar: Name generation with char-level RNN model. Image captioning with LSTM
+- [__week10__](./week10) Language Models and Seq2Seq
+    - Lecture: Intro to Language Models. Beam Search
+    - Seminar: Machine translation 
+- [__week11__](./week11) Attention and Transformer
+    - Lecture: Different attention mechanisms, vanilla Transformer encoder-decoder architecture.
+    - Seminar: Building GPT from scratch 
+- [__week12__](./week12) Various Transformer-based Models, LLMs
+    - Lecture: Transformer-based models in various applications, advanced algorithms related to Transformers
+    - Seminar: Bonus Lecture. Prompting and other advanced techniques in the LLMs world.
+- [__week13__](./week13) ViT
+    - Lecture: Transformers in Vision tasks
+    - Seminar: 
 
 # Homeworks
 Rules:
@@ -43,19 +67,19 @@ Rules:
 - [__HW1__](./homeworks/practical/hw1)
     - Soft deadline: 18.03.24, 15.00
     - Hard deadline: 25.03.24, 15.00
-    - You lose 10% off of your grade for every day after the soft deadline.
+    - You lose 10% off your grade daily after the soft deadline.
     - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.
 - [__HW2__](./homeworks/practical/hw2)
     - Theoretical and practical parts!
     - Soft deadline: 08.04.24, 15.00
     - Hard deadline: 16.04.24, 15.00
-    - You lose 10% off of your grade for every day after the soft deadline.
+    - You lose 10% off your grade daily after the soft deadline.
     - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.
 - [__HW3__](./homeworks/practical/hw3)
     - Theoretical and practical parts!
     - Soft deadline: 30.04.24, 23.59
     - Hard deadline: 07.05.24, 23.59
-    - You lose 10% off of your grade for every day after the soft deadline.
+    - You lose 10% off your grade daily after the soft deadline.
     - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.  
     
 
