@@ -65,22 +65,31 @@ Rules:
 #### Practical:
 
 - [__HW1__](./homeworks/practical/hw1)
+    - Graded 10 pts maximum 
     - Soft deadline: 18.03.24, 15.00
     - Hard deadline: 25.03.24, 15.00
     - You lose 10% off your grade daily after the soft deadline.
     - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.
 - [__HW2__](./homeworks/practical/hw2)
+    - Graded 10 pts maximum 
     - Theoretical and practical parts!
     - Soft deadline: 08.04.24, 15.00
     - Hard deadline: 16.04.24, 15.00
     - You lose 10% off your grade daily after the soft deadline.
     - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.
 - [__HW3__](./homeworks/practical/hw3)
+    - Graded 10 pts maximum 
     - Theoretical and practical parts!
     - Soft deadline: 30.04.24, 23.59
     - Hard deadline: 07.05.24, 23.59
     - You lose 10% off your grade daily after the soft deadline.
-    - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.  
+    - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.
+- [__HW4__](./homeworks/practical/hw4)
+    - Graded 12 pts maximum. 2 pts out of 12 in bonus points 
+    - Soft deadline: 17.06.24, 15.00
+    - Hard deadline: 16.06.24, 23.59
+    - You lose 10% off your grade daily after the soft deadline.
+    - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.
     
 
 # Textbooks
