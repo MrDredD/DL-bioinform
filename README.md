@@ -87,7 +87,7 @@ Rules:
 - [__HW4__](./homeworks/practical/hw4)
     - Graded 12 pts maximum. 2 pts out of 12 in bonus points 
     - Soft deadline: 17.06.24, 15.00
-    - Hard deadline: 16.06.24, 23.59
+    - Hard deadline: 19.06.24, 23.59
     - You lose 10% off your grade daily after the soft deadline.
     - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.
     
