@@ -33,11 +33,10 @@ Rules:
 
 - [__HW1__](./homeworks/practical/hw1)
     - Graded 10 pts maximum 
-    - Soft deadline: 18.03.24, 15.00
-    - Hard deadline: 25.03.24, 15.00
+    - Soft deadline: 12.02.26, 23.59
+    - Hard deadline: 19.02.26, 23.59
     - You lose 10% off your grade daily after the soft deadline.
-    - You have 4 late days to mitigate this penalty. It could be used either towards the soft or the hard deadlines.
-
+    
 # Textbooks
 ## Main:
 1. Deep Learning (Ian J. Goodfellow, Yoshua Bengio, and Aaron Courville), MIT Press, 2016.
