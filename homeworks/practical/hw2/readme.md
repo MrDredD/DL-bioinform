@@ -7,9 +7,4 @@ Every unsolved task is graded 0 points.
 For poor net quality, your grade will also be lowered.
 
 ### Deadline
-Soft deadline - 08.04.2024, 15.00
-hard deadline - 16.04.2024, 15.00
-
-You also have 4 late days in total for every assignment. You can use up to 4 late days for this HW, but you'll be left with 0 late days. 
-If you are using late days in this HW, please state that clearly at the beginning
-Do not forget: for every day after the soft deadline your total grade is lowered by 10%
+Soft deadline - 02.04.2026, 23:59
