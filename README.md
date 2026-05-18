@@ -20,6 +20,39 @@
         - SGD, Adam, AdamW
         - LR Schedulers
     - Seminar: Gradient descent and its variations. SGD. Adam. BatchNorm, Dropout, ElasticNet
+- [__week04__](./week04) Computer Vision
+    - Lecture: Image Processing, Classification, CNN, Pooling, Architecture topology
+    - Seminar: CNN for Image Processing (MNIST, CIFAR10)
+- [__week05__](./week05) CNN Evolution
+    - Lecture: LeNet, ImageNet, AlexNet, VGG, GoogLeNet, ResNet
+    - Seminar: CNNs, Datasets, DataLoaders, Augmentations. ResNet for image classification
+- [__week06__](./week06) Object Detection
+    - Lecture: R-CNN, Fast R-CNN, Faster R-CNN, YOLO, RetinaNet
+    - Seminar: Object Detection with Faster R-CNN on PASCAL VOC
+- [__week07__](./week07) Segmentation
+    - Lecture: Fully Convolutional Networks, U-Net
+    - Seminar: Semantic segmentation with U-Net on OxfordIIITPet
+- [__week08__](./week08) Text Embeddings
+    - Lecture: Word Representations, Word2Vec, GloVe
+    - Seminar: Word Embeddings, t-SNE/PCA visualization, similar question search
+- [__week09__](./week09) Sequence Handling
+    - Lecture: RNN, LSTM
+    - Seminar: RNN for name generation, Image captioning with LSTM
+- [__week10__](./week10) Attention and Transformer
+    - Lecture: Seq2Seq, Attention mechanism, Transformer architecture
+    - Seminar: GPT Language Model from scratch (character-level)
+- [__week11__](./week11) Advanced Transformer
+    - Lecture: Positional Embeddings, Transformer categories (Encoder-decoder, Encoder-only, Decoder-only)
+    - Seminar: Llama3 from scratch
+- [__week12__](./week12) LLMs
+    - Lecture: Transfer Learning, Fine-tuning, RLHF
+    - Seminar: Qwen3 implementation
+- [__week13__](./week13) LLMs Training, Tuning, Tools
+    - Lecture: LLMs Training and Tuning
+    - Bonus Lecture: LLMs and Tools
+- [__week14__](./week14) Transformer for Vision
+    - Lecture: Vision Transformer (ViT)
+    - Seminar: Vision Transformer (ViT) for Classification (CIFAR10)
 
 # Homeworks
 Rules:
@@ -35,6 +68,15 @@ Rules:
     - Graded 10 pts maximum 
     - Soft deadline: 12.02.26, 23.59
     - Hard deadline: 19.02.26, 23.59
+    - You lose 10% off your grade daily after the soft deadline.
+- [__HW2__](./homeworks/practical/hw2) Food Classification with CNNs
+    - Graded 10 pts maximum
+    - Soft deadline: 02.04.26, 23.59
+    - Hard deadline: 09.04.26, 23.59
+    - You lose 10% off your grade daily after the soft deadline.
+- [__HW3__](./homeworks/practical/hw3) Brain Tumour Segmentation with UNet
+    - Soft deadline: 09.04.26, 23.59
+    - Hard deadline: 16.04.26, 23.59
     - You lose 10% off your grade daily after the soft deadline.
     
 # Textbooks
