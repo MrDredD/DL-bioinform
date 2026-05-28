@@ -53,6 +53,12 @@
 - [__week14__](./week14) Transformer for Vision
     - Lecture: Vision Transformer (ViT)
     - Seminar: Vision Transformer (ViT) for Classification (CIFAR10)
+- [__week15__](./week15) Time Series
+    - Lecture: Time-series analysis — fundamentals (decomposition, stationarity, metrics, validation) and DL methods (Transformer-based architectures, Foundational models)
+    - Seminar: DL for Time Series
+- [__week16__](./week16) Guest Lecture (Bonus) — by Ali Ismailov
+    - Bonus Lecture: Single-cell analysis applications in DL
+    - Bonus Seminar: Glioblastoma classifier from single-cell data
 
 # Homeworks
 Rules:
@@ -78,7 +84,12 @@ Rules:
     - Soft deadline: 09.04.26, 23.59
     - Hard deadline: 16.04.26, 23.59
     - You lose 10% off your grade daily after the soft deadline.
-    
+- [__HW4__](./homeworks/practical/hw4) Transformers for Time Series (from scratch)
+    - Graded 10 pts maximum
+    - Soft deadline: 11.06.26, 23.59
+    - Hard deadline: 16.06.26, 23.59
+    - You lose 10% off your grade daily after the soft deadline.
+
 # Textbooks
 ## Main:
 1. Deep Learning (Ian J. Goodfellow, Yoshua Bengio, and Aaron Courville), MIT Press, 2016.
